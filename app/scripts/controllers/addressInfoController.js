@@ -22,7 +22,7 @@ angular.module('ethExplorer')
             if(!error) {
                 deferred.resolve({
                   balance: result,
-                  balanceInEther: web3.fromWei(result, 'ether')
+                  balanceInEther: web3.fromWei(result, 'VC')
                 });
             } else {
                 deferred.reject(error);

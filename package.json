@@ -1,9 +1,9 @@
 {
-  "name": "EthereumExplorer",
+  "name": "VentureCurrencyExplorer",
   "private": false,
   "version": "0.1.0",
-  "description": "A lightweight ethereum block explorer",
-  "repository": "https://github.com/etherparty/explorer",
+  "description": "A lightweight Venture Currency block explorer",
+  "repository": "https://github.com/VentureCurrency/explorer",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.3.1",
